@@ -5,6 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "joker": "one-liner-joke",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
